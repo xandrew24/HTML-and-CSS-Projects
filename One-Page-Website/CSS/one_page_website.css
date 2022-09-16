@@ -1,0 +1,17 @@
+html {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+body {
+    background-color: aqua;
+}
+
+
+#contact {
+    width: -5px;
+    margin: 100px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 10px dashed green;
+}
